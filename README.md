@@ -32,9 +32,9 @@ View real-time results in the UI.
 
 ## Requirements
 
-Python 3.x
-Tkinter (usually included with Python)
-Matplotlib
+* Python 3.x
+* Tkinter (usually included with Python)
+* Matplotlib
 
 ## License
 
