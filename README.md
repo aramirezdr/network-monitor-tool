@@ -23,3 +23,19 @@ An advanced network monitoring tool built with Python and Tkinter. It provides r
    ```bash
    python mpingv3.py
    ```
+
+## Usage
+
+Enter a target address (e.g., 8.8.8.8) in the Ping or Traceroute tab.
+Adjust settings like ping interval or max hops.
+View real-time results in the UI.
+
+## Requirements
+
+Python 3.x
+Tkinter (usually included with Python)
+Matplotlib
+
+## License
+
+MIT License
